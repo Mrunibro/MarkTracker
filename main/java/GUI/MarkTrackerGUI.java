@@ -41,14 +41,14 @@ public class MarkTrackerGUI {
             questSelector = new MarkQuestSelectorGUI(questFrame);
             questFrame.setContentPane(questSelector.getMainPanel());
             questFrame.setDefaultCloseOperation(WindowConstants.HIDE_ON_CLOSE);
-            questFrame.setResizable(true);
+            questFrame.setResizable(false);
             questFrame.pack();
 
             //MAIN WINDOW
             frame = new JFrame("RotMG Mark Quest Tracker");
             frame.setContentPane(new MarkTrackerGUI().mainPanel);
             frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
-            frame.setResizable(true); //no resizing allowed, cursed UI design
+            frame.setResizable(false); //no resizing allowed, cursed UI design
             frame.pack();
             frame.setVisible(true);
 
