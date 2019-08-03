@@ -43,6 +43,9 @@ public class MarkTrackerGUI {
             questFrame.setDefaultCloseOperation(WindowConstants.HIDE_ON_CLOSE);
             questFrame.setResizable(false);
             questFrame.pack();
+            //place window slightly right of main window which opens top right
+            Dimension dim = Toolkit.getDefaultToolkit().getScreenSize();
+            questFrame.setLocation((int)(dim.width * 0.1), 0);
 
             //MAIN WINDOW
             frame = new JFrame("RotMG Mark Quest Tracker");
