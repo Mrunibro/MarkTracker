@@ -20,6 +20,7 @@ public class MarkQuestSelectorGUI {
     private JPanel scrollPanelViewport;
     private JCheckBox exclude;
     private JCheckBox showActiveCheckBox;
+    @SuppressWarnings("unused") //used in generated code
     private JLabel searchInfoPane;
     private JCheckBox excludeScoutCheckBox;
 

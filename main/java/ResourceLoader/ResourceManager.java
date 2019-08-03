@@ -223,6 +223,7 @@ public class ResourceManager {
      * @param resourceName the name of the resource
      * @return a BufferedImage of the spritesheet
      */
+    @SuppressWarnings("SameParameterValue") //currently always MarkSheet.png, open to extension
     private BufferedImage loadSpritesheet(String resourceName){
         System.out.println("loading " + resourceName);
         URL url = ResourceManager.class.getResource(resourceName);

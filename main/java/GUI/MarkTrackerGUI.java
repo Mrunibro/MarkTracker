@@ -20,7 +20,9 @@ import java.util.ArrayList;
 public class MarkTrackerGUI {
 
     private JPanel mainPanel;
+    @SuppressWarnings("unused") //used in generated code (bound to form)
     private JPanel questLabelPanel;
+    @SuppressWarnings("unused") //used in generated code (bound to form)
     private JLabel questsActiveLabel;
     private JButton addQuestButton;
     private JLabel activeQuestCount;
@@ -62,9 +64,7 @@ public class MarkTrackerGUI {
         activeQuests = new ArrayList<>();
 
         //GUI INITIALIZATION
-        addQuestButton.addActionListener(e -> {
-            questFrame.setVisible(true);
-        });
+        addQuestButton.addActionListener(e -> questFrame.setVisible(true));
 
         questSelector.setMarkTrackerReference(this); //set up reference back to this object for passing selected Quests
         //(cannot pass 'this' in static context of Main

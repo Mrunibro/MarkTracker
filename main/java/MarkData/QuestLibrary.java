@@ -125,7 +125,6 @@ public class QuestLibrary {
         }
 
         ArrayList<MarkQuest> tempQuestList = new ArrayList<>();
-        ArrayList<Pair<MarkQuest, Integer>> filterMatches = new ArrayList<>();
         for (MarkQuest q : allQuests) {
             //get all dungeons a quest is a member of
             MarkRequirement[] questDungeons = q.getCompletionReq();
