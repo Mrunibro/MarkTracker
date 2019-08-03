@@ -1,0 +1,12 @@
+[
+  {
+    "type":"Scout",
+    "tier":"1"
+  },{
+    "type":"Standard",
+    "tier":"2"
+  },{
+    "type":"Epic",
+    "tier":"3"
+  }
+]

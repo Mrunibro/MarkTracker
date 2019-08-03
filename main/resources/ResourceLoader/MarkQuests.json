@@ -1,0 +1,402 @@
+[
+    {
+        "type":"Scout",
+        "name":"Scout the Pit",
+        "req":
+        [
+            {
+                "dungeon":"SnakePit",
+                "amount": "1"
+            }
+        ]
+    },{
+        "type":"Scout",
+        "name":"Scout the Sewers",
+        "req":
+        [
+            {
+                "dungeon":"ToxicSewers",
+                "amount": "1"
+            }
+        ]
+    },{
+        "type":"Scout",
+        "name":"Scout the Abyss",
+        "req":
+        [
+            {
+                "dungeon":"AbyssOfDemons",
+                "amount": "1"
+            }
+        ]
+    },{
+        "type":"Scout",
+        "name":"Scout the Sprites",
+        "req":
+        [
+            {
+                "dungeon":"SpriteWorld",
+                "amount": "1"
+            }
+        ]
+    },{
+        "type":"Scout",
+        "name":"Scout the Lair",
+        "req":
+        [
+            {
+                "dungeon":"UndeadLair",
+                "amount": "1"
+            }
+        ]
+    },{
+        "type":"Scout",
+        "name":"Scout the Theatre",
+        "req":
+        [
+            {
+                "dungeon":"PuppetMaster'sTheatre",
+                "amount": "1"
+            }
+        ]
+    },{
+        "type":"Standard",
+        "name":"The Snake Queen",
+        "req":
+        [
+            {
+                "dungeon":"SnakePit",
+                "amount": "8"
+            }
+        ]
+    },{
+        "type":"Standard",
+        "name":"The Sprite Godess",
+        "req":
+        [
+            {
+                "dungeon":"SpriteWorld",
+                "amount": "8"
+            }
+        ]
+    },{
+        "type":"Standard",
+        "name":"The Ghost God",
+        "req":
+        [
+            {
+                "dungeon":"UndeadLair",
+                "amount": "8"
+            }
+        ]
+    },{
+        "type":"Standard",
+        "name":"The Archdemon",
+        "req":
+        [
+            {
+                "dungeon":"AbyssOfDemons",
+                "amount": "8"
+            }
+        ]
+    },{
+        "type":"Standard",
+        "name":"Master! Master!",
+        "req":
+        [
+            {
+                "dungeon":"PuppetMaster'sTheatre",
+                "amount": "6"
+            }
+        ]
+    },{
+        "type":"Standard",
+        "name":"The Slime God",
+        "req":
+        [
+            {
+                "dungeon":"ToxicSewers",
+                "amount": "7"
+            }
+        ]
+    },{
+        "type":"Standard",
+        "name":"Dr. Terrible",
+        "req":
+        [
+            {
+                "dungeon":"MadLab",
+                "amount": "6"
+            }
+        ]
+    },{
+        "type":"Standard",
+        "name":"The Vampire Lord",
+        "req":
+        [
+            {
+                "dungeon":"ManorOfTheImmortals",
+                "amount": "5"
+            }
+        ]
+    },{
+        "type":"Standard",
+        "name":"The Ghost of Skuld",
+        "req":
+        [
+            {
+                "dungeon":"HauntedCemetery",
+                "amount": "6"
+            }
+        ]
+    },{
+        "type":"Standard",
+        "name":"Spirit in the Woods",
+        "req":
+        [
+            {
+                "dungeon":"MagicWoods",
+                "amount": "4"
+            }
+        ]
+    },{
+        "type":"Standard",
+        "name":"Smite the Undead!",
+        "req":
+        [
+            {
+                "dungeon":"UndeadLair",
+                "amount": "2"
+            },{
+                "dungeon":"HauntedCemetery",
+                "amount": "2"
+            },{
+                "dungeon":"ManorOfTheImmortals",
+                "amount": "2"
+            }
+        ]
+    },{
+        "type":"Standard",
+        "name":"To the Mountains!",
+        "req":
+        [
+            {
+                "dungeon":"SpriteWorld",
+                "amount": "2"
+            },{
+                "dungeon":"UndeadLair",
+                "amount": "2"
+            },{
+                "dungeon":"ToxicSewers",
+                "amount": "2"
+            },{
+                "dungeon":"AbyssOfDemons",
+                "amount": "2"
+            }
+        ]
+    },{
+        "type":"Epic",
+        "name":"The Pirate King",
+        "req":
+        [
+            {
+                "dungeon":"DeadwaterDocks",
+                "amount": "4"
+            }
+        ]
+    },{
+        "type":"Epic",
+        "name":"The Megamoth",
+        "req":
+        [
+            {
+                "dungeon":"WoodlandLabyrinth",
+                "amount": "4"
+            }
+        ]
+    },{
+        "type":"Epic",
+        "name":"Arachna's Son",
+        "req":
+        [
+            {
+                "dungeon":"CrawlingDepths",
+                "amount": "4"
+            }
+        ]
+    },{
+        "type":"Epic",
+        "name":"The Mermaid's Song",
+        "req":
+        [
+            {
+                "dungeon":"OceanTrench",
+                "amount": "5"
+            }
+        ]
+    },{
+        "type":"Epic",
+        "name":"Parasitic Horrors",
+        "req":
+        [
+            {
+                "dungeon":"ParasiteChambers",
+                "amount": "6"
+            }
+        ]
+    },{
+        "type":"Epic",
+        "name":"Davy Jones",
+        "req":
+        [
+            {
+                "dungeon":"DavyJones'sLocker",
+                "amount": "4"
+            }
+        ]
+    },{
+        "type":"Epic",
+        "name":"The Wyvern",
+        "req":
+        [
+            {
+                "dungeon":"LairOfDraconis",
+                "amount": "4"
+            }
+        ]
+    },{
+        "type":"Epic",
+        "name":"Daichi",
+        "req":
+        [
+            {
+                "dungeon":"MountainTemple",
+                "amount": "4"
+            }
+        ]
+    },{
+        "type":"Epic",
+        "name":"The Unwilling",
+        "req":
+        [
+            {
+                "dungeon":"IceCave",
+                "amount": "4"
+            }
+        ]
+    },{
+        "type":"Epic",
+        "name":"Geb The Ancient",
+        "req":
+        [
+            {
+                "dungeon":"TombOfTheAncients",
+                "amount": "4"
+            }
+        ]
+    },{
+        "type":"Epic",
+        "name":"The Mad God",
+        "req":
+        [
+            {
+                "dungeon":"Oryx'sChamber",
+                "amount": "4"
+            }
+        ]
+    },{
+        "type":"Epic",
+        "name":"Hold the Door!",
+        "req":
+        [
+            {
+                "dungeon":"Oryx'sCastle",
+                "amount": "4"
+            }
+        ]
+    },{
+        "type":"Epic",
+        "name":"The Bee Queen",
+        "req":
+        [
+            {
+                "dungeon":"TheNest",
+                "amount": "3"
+            }
+        ]
+    },{
+        "type":"Epic",
+        "name":"King Who?",
+        "req":
+        [
+            {
+                "dungeon":"TheShatters",
+                "amount": "3"
+            }
+        ]
+    },{
+        "type":"Epic",
+        "name":"Thar be Pirates!",
+        "req":
+        [
+            {
+                "dungeon":"DeadwaterDocks",
+                "amount": "2"
+            },{
+                "dungeon":"DavyJones'sLocker",
+                "amount": "2"
+            }
+        ]
+    },{
+        "type":"Epic",
+        "name":"Exterminate!",
+        "req":
+        [
+            {
+                "dungeon":"CrawlingDepths",
+                "amount": "1"
+            },{
+                "dungeon":"WoodlandLabyrinth",
+                "amount": "1"
+            },{
+                "dungeon":"TheNest",
+                "amount": "1"
+            }
+        ]
+    },{
+        "type":"Epic",
+        "name":"Unsettling Foes",
+        "req":
+        [
+            {
+                "dungeon":"ParasiteChambers",
+                "amount": "2"
+            },{
+                "dungeon":"IceCave",
+                "amount": "1"
+            },{
+                "dungeon":"DavyJones'sLocker",
+                "amount": "1"
+            }
+        ]
+    },{
+        "type":"Epic",
+        "name":"Enemies of the Nexus",
+        "req":
+        [
+            {
+                "dungeon":"Oryx'sChamber",
+                "amount": "1"
+            },{
+                "dungeon":"OceanTrench",
+                "amount": "1"
+            },{
+                "dungeon":"TombOfTheAncients",
+                "amount": "1"
+            },{
+                "dungeon":"DeadwaterDocks",
+                "amount": "1"
+            }
+        ]
+    }
+]
