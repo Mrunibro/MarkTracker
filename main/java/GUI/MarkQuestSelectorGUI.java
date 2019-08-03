@@ -91,7 +91,6 @@ public class MarkQuestSelectorGUI {
      * @param text the text to search for matches with
      */
     private void searchQuests(String text) {
-        System.out.println(text);
 
         if (! text.trim().isEmpty()){
             eligibleQuests = searchManager.getEligibleQuests(text, !exclude.isSelected());
@@ -107,7 +106,7 @@ public class MarkQuestSelectorGUI {
         refreshQuests();
 
         if(text.toLowerCase().equals("mrunibro")){
-            System.out.println("secret");
+
             loadSecret();
         }
     }
