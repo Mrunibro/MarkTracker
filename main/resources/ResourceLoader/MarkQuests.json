@@ -195,6 +195,16 @@
             }
         ]
     },{
+        "type":"Standard",
+        "name":"The Archivist",
+        "req":
+        [
+            {
+                "dungeon":"CursedLibrary",
+                "amount": "6"
+            }
+        ]
+    },{
         "type":"Epic",
         "name":"The Pirate King",
         "req":
@@ -396,6 +406,16 @@
             },{
                 "dungeon":"DeadwaterDocks",
                 "amount": "1"
+            }
+        ]
+    },{
+        "type":"Epic",
+        "name":"Crystal Entity",
+        "req":
+        [
+            {
+                "dungeon":"CrystalCave",
+                "amount": "3"
             }
         ]
     }

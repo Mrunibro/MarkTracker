@@ -71,5 +71,11 @@
   },{
     "dungeon":"TheShatters",
     "sheetPos":"23"
+  },{
+    "dungeon":"CursedLibrary",
+    "sheetPos":"24"
+  },{
+    "dungeon":"CrystalCave",
+    "sheetPos":"25"
   }
 ]
