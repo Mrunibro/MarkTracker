@@ -754,5 +754,155 @@
                 "amount": "2"
             }
         ]
+    },{
+        "type":"Craft",
+        "name":"Eggs for Breakfast",
+        "req":
+        [
+            {
+                "dungeon":"CommonHumanoidEgg",
+                "amount": "1"
+            },{
+                "dungeon":"CommonAvianEgg",
+                "amount": "1"
+            },{
+                "dungeon":"CommonFarmEgg",
+                "amount": "1"
+            }
+        ]
+    },{
+        "type":"Craft",
+        "name":"Eggs for Lunch",
+        "req":
+        [
+            {
+                "dungeon":"CommonFelineEgg",
+                "amount": "1"
+            },{
+                "dungeon":"CommonCanineEgg",
+                "amount": "1"
+            },{
+                "dungeon":"CommonAquaticEgg",
+                "amount": "1"
+            }
+        ]
+    },{
+        "type":"Craft",
+        "name":"Eggs for Dinner",
+        "req":
+        [
+            {
+                "dungeon":"CommonExoticEgg",
+                "amount": "1"
+            },{
+                "dungeon":"CommonReptileEgg",
+                "amount": "1"
+            },{
+                "dungeon":"CommonAutomatonEgg",
+                "amount": "1"
+            }
+        ]
+    },{
+        "type":"Craft",
+        "name":"Clean Laundry",
+        "req":
+        [
+            {
+                "dungeon":"PotionOfSpeed",
+                "amount": "1"
+            },{
+                "dungeon":"PotionOfDexterity",
+                "amount": "1"
+            },{
+                "dungeon":"PotionOfWisdom",
+                "amount": "1"
+            },{
+                "dungeon":"PotionOfVitality",
+                "amount": "1"
+            },{
+                "dungeon":"HolyWater",
+                "amount": "1"
+            }
+        ]
+    },{
+        "type":"Craft",
+        "name":"Potion Fusion: Att",
+        "req":
+        [
+            {
+                "dungeon":"PotionOfAttack",
+                "amount": "3"
+            }
+        ]
+    },{
+        "type":"Craft",
+        "name":"Potion Fusion: Def",
+        "req":
+        [
+            {
+                "dungeon":"PotionOfDefense",
+                "amount": "3"
+            }
+        ]
+    },{
+        "type":"Craft",
+        "name":"Potion Fusion: Spd",
+        "req":
+        [
+            {
+                "dungeon":"PotionOfSpeed",
+                "amount": "3"
+            }
+        ]
+    },{
+        "type":"Craft",
+        "name":"Potion Fusion: Dex",
+        "req":
+        [
+            {
+                "dungeon":"PotionOfDexterity",
+                "amount": "3"
+            }
+        ]
+    },{
+        "type":"Craft",
+        "name":"Potion Fusion: Vit",
+        "req":
+        [
+            {
+                "dungeon":"PotionOfVitality",
+                "amount": "3"
+            }
+        ]
+    },{
+        "type":"Craft",
+        "name":"Potion Fusion: Wis",
+        "req":
+        [
+            {
+                "dungeon":"PotionOfWisdom",
+                "amount": "3"
+            }
+        ]
+    },{
+        "type":"Craft",
+        "name":"Potion Fusion: Life",
+        "req":
+        [
+            {
+                "dungeon":"PotionOfLife",
+                "amount": "3"
+            }
+        ]
+    },{
+        "type":"Craft",
+        "name":"Potion Fusion: Mana",
+        "req":
+        [
+            {
+                "dungeon":"PotionOfMana",
+                "amount": "3"
+            }
+        ]
     }
 ]

@@ -113,5 +113,59 @@
   },{
     "dungeon":"Oryx'sSanctuary",
     "sheetPos":"37"
+  },{
+    "dungeon":"CommonHumanoidEgg",
+    "sheetPos":"38"
+  },{
+    "dungeon":"CommonAvianEgg",
+    "sheetPos":"39"
+  },{
+    "dungeon":"CommonFarmEgg",
+    "sheetPos":"40"
+  },{
+    "dungeon":"CommonFelineEgg",
+    "sheetPos":"41"
+  },{
+    "dungeon":"CommonCanineEgg",
+    "sheetPos":"42"
+  },{
+    "dungeon":"CommonAquaticEgg",
+    "sheetPos":"43"
+  },{
+    "dungeon":"CommonExoticEgg",
+    "sheetPos":"44"
+  },{
+    "dungeon":"CommonReptileEgg",
+    "sheetPos":"45"
+  },{
+    "dungeon":"CommonAutomatonEgg",
+    "sheetPos":"46"
+  },{
+    "dungeon":"HolyWater",
+    "sheetPos":"47"
+  },{
+    "dungeon":"PotionOfAttack",
+    "sheetPos":"48"
+  },{
+    "dungeon":"PotionOfDefense",
+    "sheetPos":"49"
+  },{
+    "dungeon":"PotionOfSpeed",
+    "sheetPos":"50"
+  },{
+    "dungeon":"PotionOfDexterity",
+    "sheetPos":"51"
+  },{
+    "dungeon":"PotionOfVitality",
+    "sheetPos":"52"
+  },{
+    "dungeon":"PotionOfWisdom",
+    "sheetPos":"53"
+  },{
+    "dungeon":"PotionOfLife",
+    "sheetPos":"54"
+  },{
+    "dungeon":"PotionOfMana",
+    "sheetPos":"55"
   }
 ]
