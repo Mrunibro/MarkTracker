@@ -3,10 +3,19 @@
     "type":"Scout",
     "tier":"1"
   },{
-    "type":"Standard",
+    "type":"Beginner",
     "tier":"2"
   },{
-    "type":"Epic",
+    "type":"Standard",
     "tier":"3"
+  },{
+    "type":"Mighty",
+    "tier":"4"
+  },{
+    "type":"Epic",
+    "tier":"5"
+  },{
+    "type":"Craft",
+    "tier":"6"
   }
 ]
